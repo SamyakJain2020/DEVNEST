@@ -1,0 +1,21 @@
+body
+{
+    background: url('./Im/bg.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  div{
+    display: inline-block;
+      text-align: left;
+      top: 105px;
+      /*border: 1px solid #000;*/
+      left: 475px;
+      padding: 20px;
+      box-sizing: border-box;
+      /* box-sizing: border-box; */
+      /* font-size: 12px; */
+    }
